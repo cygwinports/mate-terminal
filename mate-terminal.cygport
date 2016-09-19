@@ -1,7 +1,7 @@
 inherit mate
 
 NAME="mate-terminal"
-VERSION=1.14.0
+VERSION=1.14.1
 RELEASE=1
 CATEGORY="MATE Shells"
 SUMMARY="MATE terminal emulator"
