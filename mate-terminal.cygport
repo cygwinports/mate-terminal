@@ -1,11 +1,9 @@
 inherit mate
 
 NAME="mate-terminal"
-VERSION=1.16.2
+VERSION=1.18.0
 RELEASE=1
 CATEGORY="MATE Shells"
 SUMMARY="MATE terminal emulator"
 DESCRIPTION="MATE is a fork of the GNOME 2 desktop. It provides an intuitive
 and attractive desktop to Linux users using traditional metaphors."
-
-CYGCONF_ARGS="--with-gtk=3.0"
